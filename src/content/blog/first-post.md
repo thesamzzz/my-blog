@@ -2,7 +2,7 @@
 title: 'July 9 2026'
 description: 'The Fraud Exiled'
 pubDate: 'Jul 09 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: 'my-blog/src/assets/blog-placeholder-3.jpg'
 ---
 
 My mother got kicked out of Canada, like the entire country, at 4 AM this morning. 
