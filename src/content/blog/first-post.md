@@ -1,6 +1,6 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
+title: 'July 9 2026'
+description: 'The Fraud Exiled'
 pubDate: 'Jul 09 2026'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
