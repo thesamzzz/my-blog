@@ -1,6 +1,6 @@
 ---
-title: 'July 9 2026'
-description: 'The Fraud Exiled'
+title: 'The Fraud Exiled'
+description: 'Dream about my mother being kicked out of Canada'
 pubDate: 'Jul 09 2026'
 heroImage: 'my-blog/src/assets/blog-placeholder-3.jpg'
 ---
